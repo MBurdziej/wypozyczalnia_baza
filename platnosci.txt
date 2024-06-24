@@ -1,0 +1,11 @@
+id_wypozyczenia	data_platnosci	kwota	metoda_platnosci
+1	2024-01-05	150.00	Karta kredytowa
+2	2024-01-06	130.00	Przelew bankowy
+3	2024-01-07	140.00	Karta kredytowa
+4	2024-01-08	120.00	Gotówka
+5	2024-01-09	160.00	Przelew bankowy
+6	2024-01-10	110.00	Karta kredytowa
+7	2024-01-11	140.00	Gotówka
+8	2024-01-12	130.00	Przelew bankowy
+9	2024-01-13	150.00	Karta kredytowa
+10	2024-01-14	120.00	Gotówka

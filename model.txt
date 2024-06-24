@@ -1,0 +1,11 @@
+nazwa_modelu	nazwa_producenta	poziom_zaawansowania	nazwa_typu
+Speedster	Atomic	Zaawansowany	Narty
+Explorer	Salomon	Średniozaawansowany	Narty
+RaceMaster	Blizzard	NULL	Narty
+SnowCruiser	Rossignol	Początkujący	Narty
+BoardXtreme	Burton	Zaawansowany	Deska
+AllMountain	K2	NULL	Deska
+FreestylePro	Lib Tech	Zaawansowany	Deska
+UrbanRider	GNU	Średniozaawansowany	Deska
+PowderKing	Völkl	Średniozaawansowany	Narty
+GlideMaster	Head	Początkujący	Narty

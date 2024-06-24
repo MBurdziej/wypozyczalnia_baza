@@ -1,0 +1,11 @@
+imie	nazwisko	email	telefon	adres	data_urodzenia
+Jan	Kowalski	jan.kowalski@example.com	123456789	ul. Długa 10, Warszawa	1985-05-15
+Anna	Nowak	NULL	987654321	ul. Krótka 5, Kraków	1990-08-22
+Piotr	Wójcik	piotr.wojcik@example.com	NULL	ul. Szeroka 20, Gdańsk	1983-12-01
+Ewa	Zielińska	ewa.zielinska@example.com	444555666	ul. Wąska 7, Wrocław	1995-04-12
+Marek	Lewandowski	NULL	333444555	ul. Prosta 3, Poznań	1987-11-18
+Magdalena	Wilczyńska	magdalena.wilczynska@example.com	222333444	ul. Cicha 2, Łódź	1992-07-30
+Tomasz	Kwiatkowski	tomasz.kwiatkowski@example.com	NULL	ul. Rynek 9, Katowice	1989-02-27
+Karolina	Nowicka	karolina.nowicka@example.com	999888777	ul. Piekna 6, Szczecin	1993-03-16
+Robert	Jankowski	NULL	888777666	ul. Tęczowa 12, Lublin	1982-09-21
+Agnieszka	Wieczorek	agnieszka.wieczorek@example.com	777666555	ul. Łączna 8, Bydgoszcz	1991-10-10
