@@ -4,10 +4,9 @@
 
 ## Spis treści
 
-1. Diagram ERD
+1. Diagram relacji
 2. Struktura Tabel
 3. Przykładowe Dane
-4. Instrukcje
 
 ## Diagram
 
